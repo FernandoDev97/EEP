@@ -56,7 +56,7 @@ export const ProjectContainer = styled.div<ProjectProps>`
         border: none;
 
         > a {
-            color: #fff;
+            color: #0AA1DD;
             font-size: 2rem;
             font-weight: 300;
             display: flex;
@@ -79,7 +79,7 @@ export const ProjectContainer = styled.div<ProjectProps>`
 
         > button  {
             a {
-                color: ${(props) => props.theme.secondary};
+                color: #79DAE8;
             }
         }
     }
