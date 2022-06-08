@@ -41,7 +41,7 @@ export const ProjectContainer = styled.div<ProjectProps>`
             }
 
             h2 {
-                color: ${(props) => props.theme.secondary};
+                color: ${(props) => props.theme.primary};
                 font-size: 2rem;
                 font-weight: 300;
                 text-shadow: -4px 5px 22px #11172b;
